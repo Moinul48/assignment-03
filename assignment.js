@@ -1,4 +1,4 @@
-
+// https://github.com/Moinul48/assignment-03
 
 // Kilometer to Meter Conviersion
 
@@ -37,7 +37,6 @@ function budgetCalculator(watch, phone, laptop){
 
 
 // Hotel cost calculator:
-
 
 var firstTenDaysRentRate = 100;
 var elevenToTwentyDaysRentRate = 80;
