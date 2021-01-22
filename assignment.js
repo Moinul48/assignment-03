@@ -1,6 +1,6 @@
 // https://github.com/Moinul48/assignment-03
 
-// Kilometer to Meter Conviersion
+// Kilometer to Meter Conversion
 
 function kilometerToMeter(kilometer){
     if(Math.sign(kilometer) < 0){
@@ -22,7 +22,7 @@ var laptopPrice = 500;
 
 function budgetCalculator(watch, phone, laptop){
     if(Math.sign(watch, phone, laptop) < 0){
-        console.log("Error! Plese type positive number.");
+        console.log("Error! Please type positive number.");
         return;
     }
     else{
